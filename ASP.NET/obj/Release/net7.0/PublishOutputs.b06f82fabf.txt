@@ -1,0 +1,7 @@
+/Users/erichstorti/Projects/ASP.NET/ASP.NET/obj/Release/net7.0/PubTmp/Out/ASP.NET
+/Users/erichstorti/Projects/ASP.NET/ASP.NET/obj/Release/net7.0/PubTmp/Out/appsettings.Development.json
+/Users/erichstorti/Projects/ASP.NET/ASP.NET/obj/Release/net7.0/PubTmp/Out/appsettings.json
+/Users/erichstorti/Projects/ASP.NET/ASP.NET/obj/Release/net7.0/PubTmp/Out/ASP.NET.dll
+/Users/erichstorti/Projects/ASP.NET/ASP.NET/obj/Release/net7.0/PubTmp/Out/ASP.NET.deps.json
+/Users/erichstorti/Projects/ASP.NET/ASP.NET/obj/Release/net7.0/PubTmp/Out/ASP.NET.runtimeconfig.json
+/Users/erichstorti/Projects/ASP.NET/ASP.NET/obj/Release/net7.0/PubTmp/Out/ASP.NET.pdb
